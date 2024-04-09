@@ -66,11 +66,11 @@ python predict.py
 
 ## Visulizations
 
-<img src="https://github.com/bulithakawushika/Car-Price-Prediction-ANN-model/blob/main/car%20price%20prediction%20model/Visualization/1711517627554.jpg?raw=true" width="1000">
+<img src="https://github.com/bulithakawushika/Car-Price-Prediction-ANN-model/blob/main/car%20price%20prediction%20model/Visualization/1711517627554.jpg?raw=true" width="800">
 
-<img src="https://github.com/bulithakawushika/Car-Price-Prediction-ANN-model/blob/main/car%20price%20prediction%20model/Visualization/1711517630765.jpg?raw=true" width="1000">
+<img src="https://github.com/bulithakawushika/Car-Price-Prediction-ANN-model/blob/main/car%20price%20prediction%20model/Visualization/1711517630765.jpg?raw=true" width="800">
 
-<img src="https://github.com/bulithakawushika/Car-Price-Prediction-ANN-model/blob/main/car%20price%20prediction%20model/Visualization/1711517638818.jpg?raw=true" width="1000">
+<img src="https://github.com/bulithakawushika/Car-Price-Prediction-ANN-model/blob/main/car%20price%20prediction%20model/Visualization/1711517638818.jpg?raw=true" width="400">
 
 ## Contributing
 
