@@ -8,7 +8,7 @@ This repository contains an Artificial Neural Network (ANN) model trained to pre
 2. [Dataset](#dataset)
 3. [Installation](#installation)
 4. [Usage](#usage)
-5. [Documentation](#documentation)
+5. [Visulizations](#Visulizations)
 6. [Contributing](#contributing)
 7. [License](#license)
 
