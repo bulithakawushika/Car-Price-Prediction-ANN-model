@@ -20,7 +20,7 @@ Predicting second-hand car prices is crucial for both buyers and sellers in the 
 
 The dataset used for training and evaluation is sourced from Kaggle, consisting of a comprehensive collection of second-hand car listings. It contains information about various attributes of the cars, including their brands, models, manufacturing years, mileage, fuel types, transmission types, and prices.
 
-Link to the dataset: [Kaggle Second-Hand Car Prices Dataset](https://www.kaggle.com/your-dataset-link)
+Link to the dataset: [Kaggle Second-Hand Car Prices Dataset](https://www.kaggle.com/datasets/mayankpatel14/second-hand-used-cars-data-set-linear-regression)
 
 ## Installation
 
@@ -64,9 +64,13 @@ python evaluate.py
 python predict.py
 ```
 
-## Documentation
+## Visulizations
 
-For detailed documentation on the project structure, data preprocessing steps, model architecture, training process, evaluation metrics, and usage instructions, refer to the [documentation](documentation.md) file.
+<img src="https://github.com/bulithakawushika/Car-Price-Prediction-ANN-model/blob/main/car%20price%20prediction%20model/Visualization/1711517627554.jpg?raw=true" width="1000">
+
+<img src="https://github.com/bulithakawushika/Car-Price-Prediction-ANN-model/blob/main/car%20price%20prediction%20model/Visualization/1711517630765.jpg?raw=true" width="1000">
+
+<img src="https://github.com/bulithakawushika/Car-Price-Prediction-ANN-model/blob/main/car%20price%20prediction%20model/Visualization/1711517638818.jpg?raw=true" width="1000">
 
 ## Contributing
 
@@ -74,4 +78,4 @@ Contributions are welcome! Feel free to open issues or pull requests for any imp
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+Free and Open Source.
